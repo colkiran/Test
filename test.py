@@ -9,3 +9,7 @@ for i in range(!, 6):
     print(j, end = " ")
 print()
 
+print("hello World")
+print("hello World")
+print("hello World")
+print("hello World")
